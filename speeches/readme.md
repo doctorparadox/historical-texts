@@ -1,5 +1,12 @@
 # Political speeches
 
+## Inaugural speeches
+
+Presidential inaugural addresses:
+
+* [Barack Obama inaugural, 2009](https://github.com/doctorparadox/historical-texts/blob/master/speeches/Obama_inaugural.txt)
+* [Donald Trump inaugural, 2017](https://github.com/doctorparadox/historical-texts/blob/master/speeches/Trump_inaugural.txt)
+
 ## "The German Element in America" (1944)
 
 * [lundeen-germany-speech_sm.pdf](https://github.com/doctorparadox/historical-texts/blob/master/speeches/lundeen-germany-speech_sm.pdf)
