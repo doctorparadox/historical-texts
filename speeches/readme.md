@@ -7,6 +7,10 @@ Presidential inaugural addresses:
 * [Barack Obama inaugural, 2009](https://github.com/doctorparadox/historical-texts/blob/master/speeches/Obama_inaugural.txt)
 * [Donald Trump inaugural, 2017](https://github.com/doctorparadox/historical-texts/blob/master/speeches/Trump_inaugural.txt)
 
+## Important historical speeches
+
+* [Margaret Chase Smith, A Declaration of Conscience](https://github.com/doctorparadox/historical-texts/blob/master/speeches/Margaret-Chase-Smith-Declaration-of-Conscience.pdf) -- given on the Senate floor in response to the rise of McCarhyism and anti-Communist hysteria in the 1950s
+
 ## "The German Element in America" (1944)
 
 * [lundeen-germany-speech_sm.pdf](https://github.com/doctorparadox/historical-texts/blob/master/speeches/lundeen-germany-speech_sm.pdf)
