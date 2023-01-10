@@ -1,6 +1,6 @@
 # Declaration of the Rights of Man (1789)
 
-Approved by the National Assembly of France, August 26, 1789
+_Approved by the National Assembly of France, August 26, 1789_
 
 The representatives of the French people, organized as a National Assembly, believing that the ignorance, neglect, or contempt of the rights of man are the sole cause of public calamities and of the corruption of governments, have determined to set forth in a solemn declaration the natural, unalienable, and sacred rights of man, in order that this declaration, being constantly before all the members of the Social body, shall remind them continually of their rights and duties; in order that the acts of the legislative power, as well as those of the executive power, may be compared at any moment with the objects and purposes of all political institutions and may thus be more respected, and, lastly, in order that the grievances of the citizens, based hereafter upon simple and incontestable principles, shall tend to the maintenance of the constitution and redound to the happiness of all. Therefore the National Assembly recognizes and proclaims, in the presence and under the auspices of the Supreme Being, the following rights of man and of the citizen:
 
