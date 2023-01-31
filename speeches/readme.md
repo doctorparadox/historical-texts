@@ -4,6 +4,7 @@
 
 Presidential inaugural addresses:
 
+* [Georgw W. Bush inaugural, 2001](https://github.com/doctorparadox/historical-texts/blob/master/speeches/GWB_inaugural.txt)
 * [Barack Obama inaugural, 2009](https://github.com/doctorparadox/historical-texts/blob/master/speeches/Obama_inaugural.txt)
 * [Donald Trump inaugural, 2017](https://github.com/doctorparadox/historical-texts/blob/master/speeches/Trump_inaugural.txt)
 * [Joseph Biden inaugural, 2021](https://github.com/doctorparadox/historical-texts/blob/master/speeches/Biden_inaugural.txt)
