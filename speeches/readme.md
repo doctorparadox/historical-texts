@@ -5,6 +5,7 @@
 Presidential inaugural addresses:
 
 * [Abraham Lincoln inaugural, 1861](https://github.com/doctorparadox/historical-texts/blob/master/speeches/abraham_lincoln_inaugural.txt)
+* [John F. Kennedy inaugural, 1961](https://github.com/doctorparadox/historical-texts/blob/master/speeches/JFK_inaugural.txt)
 * [Lyndon B. Johnson second inaugural, 1965](https://github.com/doctorparadox/historical-texts/blob/master/speeches/lyndon_johnson_inaugural.txt)
 * [Richard Nixon inaugural, 1969](https://github.com/doctorparadox/historical-texts/blob/master/speeches/richard_nixon_inaugural.txt)
 * [Gerald Ford inaugural, 1974](https://github.com/doctorparadox/historical-texts/blob/master/speeches/Gerald_Ford_inaugural.txt)
