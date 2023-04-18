@@ -5,6 +5,7 @@
 Presidential inaugural addresses:
 
 * [Abraham Lincoln inaugural, 1861](https://github.com/doctorparadox/historical-texts/blob/master/speeches/abraham_lincoln_inaugural.txt)
+* [Warren G. Harding inaugural, 1921](https://github.com/doctorparadox/historical-texts/blob/master/speeches/warren_g_harding_inaugural.txt)
 * [Calvin Coolidge inaugural, 1925](https://github.com/doctorparadox/historical-texts/blob/master/speeches/calvin_coolidge_inaugural.txt)
 * [Herbert Hoover inaugural, 1929](https://github.com/doctorparadox/historical-texts/blob/master/speeches/herbert_hoover_inaugural.txt)
 * [Franklin D. Roosevelt inaugural, 1933](https://github.com/doctorparadox/historical-texts/blob/master/speeches/FDR_inaugural.txt)
