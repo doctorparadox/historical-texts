@@ -1,0 +1,1 @@
+Documents relating to the no-show deposition by Dan Scavino, Deputy Chief of Staff for Communications under Trump, who was subpoena'd by Congress regarding the January 6 coup attempt but refused to give testimony.
