@@ -1,0 +1,1 @@
+Documents related to Manhattan District Attorney Alvin Bragg's case against Trump for paying off porn star Stormy Daniels to prevent information about his infidelities from being exposed to the public ahead of the 2016 election.
