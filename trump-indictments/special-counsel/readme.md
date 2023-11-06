@@ -5,4 +5,4 @@ This folder contains documents relating to the Jack Smith Special Counsel invest
 3. conspiracy to deprive people of civil rights provided by federal law or the Constitution
 4. attempting to obstruct an official proceeding — the certification of the election results by Congress
 
-Jack Smith has another case against Trump, regarding the theft of classified documents [taken unlawfully from the White House to Mar-a-Lago]([url](https://github.com/doctorparadox/historical-texts/tree/master/trump-indictments/classified-documents)https://github.com/doctorparadox/historical-texts/tree/master/trump-indictments/classified-documents).
+Jack Smith has another case against Trump, regarding the theft of classified documents [taken unlawfully from the White House to Mar-a-Lago](https://github.com/doctorparadox/historical-texts/tree/master/trump-indictments/classified-documents)https://github.com/doctorparadox/historical-texts/tree/master/trump-indictments/classified-documents).
