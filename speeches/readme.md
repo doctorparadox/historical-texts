@@ -31,6 +31,7 @@ Presidential inaugural addresses:
 
 ## Important historical speeches
 
+* [Cornerstone Speech: Alexander Stephens](https://github.com/doctorparadox/historical-texts/blob/master/speeches/cornerstone-speech.txt) (1861) -- This speech, given a few weeks before the Confederates fired on Fort Sumter, establishes the primary reason for the South's "revolution" as being rooted in the preservation of slavery and the ideology of white supremacy
 * [Franklin D. Roosevelt, Four Freedoms speech](https://github.com/doctorparadox/historical-texts/blob/master/speeches/FDR_4_Freedoms_1941.txt) -- FDR's State of the Union speech on January 6, 1941 set the geopolitical stage for the Atlantic Charter and the creation of the [United Nations](https://foundations.doctorparadox.net/Companies+and+Orgs/United+Nations)
 * [Margaret Chase Smith, A Declaration of Conscience](https://github.com/doctorparadox/historical-texts/blob/master/speeches/Margaret-Chase-Smith-Declaration-of-Conscience.pdf) (1950) -- given on the Senate floor in response to the rise of [McCarthyism](https://foundations.doctorparadox.net/People/Joe+McCarthy) and anti-Communist hysteria in the 1950s
 * [Hillary Clinton on the rise of the alt-Right](https://github.com/doctorparadox/historical-texts/blob/master/speeches/Hillary_Clinton_alt_right.md) (2016) -- the then-Presidential candidate gave a speech in Reno, NV on August 25, 2016 about the rise of hateful right-wing vitriol online, encapsulated in a new political movement dubbed the alt-Right
