@@ -5,6 +5,7 @@
 Presidential inaugural addresses:
 
 * [Abraham Lincoln inaugural, 1861](https://github.com/doctorparadox/historical-texts/blob/master/speeches/abraham_lincoln_inaugural.txt)
+* [Grover Cleveland first inaugural, 1885](https://github.com/doctorparadox/historical-texts/blob/master/speeches/grover_cleveland_inaugural_1.txt)
 * [Benjamin Harrison insugural, 1889](https://github.com/doctorparadox/historical-texts/blob/master/speeches/benjamin_harrison_inaugural.txt)
 * [Grover Cleveland second inaugural, 1893](https://github.com/doctorparadox/historical-texts/blob/master/speeches/grover_cleveland_inaugural_2.txt)
 * [William McKinley inuagural, 1897](https://github.com/doctorparadox/historical-texts/blob/master/speeches/william_mckinley_inaugural.txt)
