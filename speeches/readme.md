@@ -4,7 +4,8 @@
 
 Presidential inaugural addresses:
 
-* [Abraham Lincoln inaugural, 1861](https://github.com/doctorparadox/historical-texts/blob/master/speeches/abraham_lincoln_inaugural.txt)
+* [Abraham Lincoln first inaugural, 1861](https://github.com/doctorparadox/historical-texts/blob/master/speeches/abraham_lincoln_inaugural.txt)
+* [Abraham Lincoln second inaugural, 1865](https://github.com/doctorparadox/historical-texts/blob/master/speeches/abraham_lincoln_2nd_inaugural.txt)
 * [Rutherford B. Hayes inaugural, 1877](https://github.com/doctorparadox/historical-texts/blob/master/speeches/rutherford_b_hayes_inaugural.txt)
 * [James A. Garfield inaugural, 1881](https://github.com/doctorparadox/historical-texts/blob/master/speeches/james_a_garfield_inaugural.txt)
 * [Grover Cleveland first inaugural, 1885](https://github.com/doctorparadox/historical-texts/blob/master/speeches/grover_cleveland_inaugural_1.txt)
