@@ -4,6 +4,7 @@
 
 Presidential inaugural addresses:
 
+* [Franklin Pierce inaugural, 1853](https://github.com/doctorparadox/historical-texts/blob/master/speeches/franklin_pierce_inaugural.txt)
 * [James Buchanan inaugural, 1857](https://github.com/doctorparadox/historical-texts/blob/master/speeches/james_buchanan_inaugural.txt)
 * [Abraham Lincoln first inaugural, 1861](https://github.com/doctorparadox/historical-texts/blob/master/speeches/abraham_lincoln_inaugural.txt)
 * [Abraham Lincoln second inaugural, 1865](https://github.com/doctorparadox/historical-texts/blob/master/speeches/abraham_lincoln_2nd_inaugural.txt)
