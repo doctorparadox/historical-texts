@@ -4,6 +4,7 @@
 
 Presidential inaugural addresses:
 
+* [William Henry Harrison inaugural, 1841](https://github.com/doctorparadox/historical-texts/blob/master/speeches/william_henry_harrison_inaugural.txt)
 * [James K. Polk inaugural, 1845](https://github.com/doctorparadox/historical-texts/blob/master/speeches/james_k_polk_inauguration.txt)
 * [Zachary Taylor inaugural, 1849](https://github.com/doctorparadox/historical-texts/blob/master/speeches/zachary_taylor_inaugural.txt)
 * [Franklin Pierce inaugural, 1853](https://github.com/doctorparadox/historical-texts/blob/master/speeches/franklin_pierce_inaugural.txt)
