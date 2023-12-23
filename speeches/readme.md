@@ -4,6 +4,7 @@
 
 Presidential inaugural addresses:
 
+* [Andrew Jackson second inaugural, 1833](https://github.com/doctorparadox/historical-texts/blob/master/speeches/andrew_jackson_2nd_inaugural.txt)
 * [Martin Van Buren inaugural, 1837](https://github.com/doctorparadox/historical-texts/blob/master/speeches/martin_van_buren_inaugural.txt)
 * [William Henry Harrison inaugural, 1841](https://github.com/doctorparadox/historical-texts/blob/master/speeches/william_henry_harrison_inaugural.txt)
 * [James K. Polk inaugural, 1845](https://github.com/doctorparadox/historical-texts/blob/master/speeches/james_k_polk_inauguration.txt)
