@@ -4,7 +4,7 @@
 
 Presidential inaugural addresses:
 
-* [John Quincy Adams inaugurak, 1825](https://github.com/doctorparadox/historical-texts/blob/master/speeches/john_quincy_adams_inaugural.txt)
+* [John Quincy Adams inaugural, 1825](https://github.com/doctorparadox/historical-texts/blob/master/speeches/john_quincy_adams_inaugural.txt)
 * [Andrew Jackson first inaugural, 1829](https://github.com/doctorparadox/historical-texts/blob/master/speeches/andrew_jackson_1st_inaugural.txt)
 * [Andrew Jackson second inaugural, 1833](https://github.com/doctorparadox/historical-texts/blob/master/speeches/andrew_jackson_2nd_inaugural.txt)
 * [Martin Van Buren inaugural, 1837](https://github.com/doctorparadox/historical-texts/blob/master/speeches/martin_van_buren_inaugural.txt)
