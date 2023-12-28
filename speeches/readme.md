@@ -4,6 +4,7 @@
 
 Presidential inaugural addresses:
 
+* [James Monroe second inaugural, 1821](https://github.com/doctorparadox/historical-texts/blob/master/speeches/james_monroe_2nd_inaugural.txt)
 * [John Quincy Adams inaugural, 1825](https://github.com/doctorparadox/historical-texts/blob/master/speeches/john_quincy_adams_inaugural.txt)
 * [Andrew Jackson first inaugural, 1829](https://github.com/doctorparadox/historical-texts/blob/master/speeches/andrew_jackson_1st_inaugural.txt)
 * [Andrew Jackson second inaugural, 1833](https://github.com/doctorparadox/historical-texts/blob/master/speeches/andrew_jackson_2nd_inaugural.txt)
