@@ -33,6 +33,7 @@ Presidential inaugural addresses:
 * [Herbert Hoover inaugural, 1929](https://github.com/doctorparadox/historical-texts/blob/master/speeches/herbert_hoover_inaugural.txt)
 * [Franklin D. Roosevelt first inaugural, 1933](https://github.com/doctorparadox/historical-texts/blob/master/speeches/FDR_inaugural.txt)
 * [FDR second inaugural, 1937](https://github.com/doctorparadox/historical-texts/blob/master/speeches/FDR_2nd_inaugural.txt)
+* [FDR third inaugural, 1941](https://github.com/doctorparadox/historical-texts/blob/master/speeches/FDR_3rd_inaugural.txt)
 * [Harry Truman inaugural, 1949](https://github.com/doctorparadox/historical-texts/blob/master/speeches/harry_truman_inaugural.txt)
 * [Dwight D. Eisenhower inaugural, 1953](https://github.com/doctorparadox/historical-texts/blob/master/speeches/eisenhower_inaugural.txt)
 * [John F. Kennedy inaugural, 1961](https://github.com/doctorparadox/historical-texts/blob/master/speeches/JFK_inaugural.txt)
