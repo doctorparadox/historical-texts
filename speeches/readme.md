@@ -45,6 +45,7 @@ Presidential inaugural addresses:
 * [Ronald Reagan inaugural, 1981](https://github.com/doctorparadox/historical-texts/blob/master/speeches/Reagan_inaugural.txt)
 * [George H.W. Bush inaugural, 1989](https://github.com/doctorparadox/historical-texts/blob/master/speeches/george_hw_bush_inaugural.txt)
 * [Bill Clinton inaugural, 1993](https://github.com/doctorparadox/historical-texts/blob/master/speeches/Clinton_inaugural.txt)
+* [Bill Clinton second inaugural, 1997](https://github.com/doctorparadox/historical-texts/blob/master/speeches/bill_clinton_2nd_inaugural.txt)
 * [George W. Bush inaugural, 2001](https://github.com/doctorparadox/historical-texts/blob/master/speeches/GWB_inaugural.txt)
 * [GWB second inaugural, 2005](https://github.com/doctorparadox/historical-texts/blob/master/speeches/GWB_2nd_inaugural.txt)
 * [Barack Obama inaugural, 2009](https://github.com/doctorparadox/historical-texts/blob/master/speeches/Obama_inaugural.txt)
