@@ -40,6 +40,7 @@ Presidential inaugural addresses:
 * [John F. Kennedy inaugural, 1961](https://github.com/doctorparadox/historical-texts/blob/master/speeches/JFK_inaugural.txt)
 * [Lyndon B. Johnson second inaugural, 1965](https://github.com/doctorparadox/historical-texts/blob/master/speeches/lyndon_johnson_inaugural.txt)
 * [Richard Nixon inaugural, 1969](https://github.com/doctorparadox/historical-texts/blob/master/speeches/richard_nixon_inaugural.txt)
+* [Richard Nixon second inaugural, 1973](https://github.com/doctorparadox/historical-texts/blob/master/speeches/richard_nixon_2nd_inaugural.txt)
 * [Gerald Ford inaugural, 1974](https://github.com/doctorparadox/historical-texts/blob/master/speeches/Gerald_Ford_inaugural.txt)
 * [Jimmy Carter inaugural, 1977](https://github.com/doctorparadox/historical-texts/blob/master/speeches/jimmy_carter_inaugural.txt)
 * [Ronald Reagan inaugural, 1981](https://github.com/doctorparadox/historical-texts/blob/master/speeches/Reagan_inaugural.txt)
