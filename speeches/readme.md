@@ -37,6 +37,7 @@ Presidential inaugural addresses:
 * [FDR fourth inaugural, 1945](https://github.com/doctorparadox/historical-texts/blob/master/speeches/FDR_4th_inaugural.txt)
 * [Harry Truman inaugural, 1949](https://github.com/doctorparadox/historical-texts/blob/master/speeches/harry_truman_inaugural.txt)
 * [Dwight D. Eisenhower inaugural, 1953](https://github.com/doctorparadox/historical-texts/blob/master/speeches/eisenhower_inaugural.txt)
+* [Dwight D. Eisenhower second inaugural, 1957](https://github.com/doctorparadox/historical-texts/blob/master/speeches/eisenhower_2nd_inaugural.txt)
 * [John F. Kennedy inaugural, 1961](https://github.com/doctorparadox/historical-texts/blob/master/speeches/JFK_inaugural.txt)
 * [Lyndon B. Johnson second inaugural, 1965](https://github.com/doctorparadox/historical-texts/blob/master/speeches/lyndon_johnson_inaugural.txt)
 * [Richard Nixon inaugural, 1969](https://github.com/doctorparadox/historical-texts/blob/master/speeches/richard_nixon_inaugural.txt)
