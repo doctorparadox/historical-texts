@@ -28,6 +28,7 @@ Presidential inaugural addresses:
 * [Teddy Roosevelt inaugural, 1905](https://github.com/doctorparadox/historical-texts/blob/master/speeches/teddy_roosevelt_inaugural.txt)
 * [William H. Taft inaugural, 1909](https://github.com/doctorparadox/historical-texts/blob/master/speeches/william_h_taft_inaugural.txt)
 * [Woodrow Wilson inaugural, 1913](https://github.com/doctorparadox/historical-texts/blob/master/speeches/woodrow_wilson_inaugural.txt)
+* [Woodrow Wilson second inaugural, 1917](https://github.com/doctorparadox/historical-texts/blob/master/speeches/woodrow_wilson_2nd_inaugural.txt)
 * [Warren G. Harding inaugural, 1921](https://github.com/doctorparadox/historical-texts/blob/master/speeches/warren_g_harding_inaugural.txt)
 * [Calvin Coolidge inaugural, 1925](https://github.com/doctorparadox/historical-texts/blob/master/speeches/calvin_coolidge_inaugural.txt)
 * [Herbert Hoover inaugural, 1929](https://github.com/doctorparadox/historical-texts/blob/master/speeches/herbert_hoover_inaugural.txt)
