@@ -2,7 +2,7 @@
 
 ## Inaugural speeches
 
-Presidential inaugural addresses:
+Presidential inaugural addresses, .txt format:
 
 * [James Madison first inaugural, 1809](https://github.com/doctorparadox/historical-texts/blob/master/speeches/james_madison_1st_inaugural.txt)
 * [James Madison second inaugural, 1813](https://github.com/doctorparadox/historical-texts/blob/master/speeches/james_madison_2nd_inaugural.txt)
