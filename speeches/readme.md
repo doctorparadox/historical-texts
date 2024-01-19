@@ -1,9 +1,10 @@
 # Political speeches
 
-## Inaugural speeches
+## Inaugural speeches of US Presidents
 
-Presidential inaugural addresses, .txt format:
+Presidential inaugural addresses, in .txt format:
 
+* [John Adams inaugural, 1797](https://github.com/doctorparadox/historical-texts/blob/master/speeches/john_adams_inaugural.txt)
 * [Thomas Jefferson inaugural, 1801](https://github.com/doctorparadox/historical-texts/blob/master/speeches/thomas_jefferson_inaugural.txt)
 * [Thomas Jefferson second inaugural, 1805](https://github.com/doctorparadox/historical-texts/blob/master/speeches/thomas_jefferson_2nd_inaugural.txt)
 * [James Madison first inaugural, 1809](https://github.com/doctorparadox/historical-texts/blob/master/speeches/james_madison_1st_inaugural.txt)
