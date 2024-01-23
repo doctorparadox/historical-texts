@@ -72,6 +72,8 @@ Presidential inaugural addresses, in .txt format:
 * [Lyndon Johnson's "Great Society" speech at the U. of Michigan campus](https://github.com/doctorparadox/historical-texts/blob/master/speeches/LBJ_Great_Society.txt) -- LBJ's speech laid the foundation for a series of progressive reforms aimed at reducing poverty, promoting civil rights, and improving education. The speech symbolized a commitment to social welfare and equality, significantly influencing American social and political landscapes in the ensuing decades.
 * [Hillary Clinton on the rise of the alt-Right](https://github.com/doctorparadox/historical-texts/blob/master/speeches/Hillary_Clinton_alt_right.md) (2016) -- the then-Presidential candidate gave a speech in Reno, NV on August 25, 2016 about the rise of hateful right-wing vitriol online, encapsulated in a new political movement dubbed the alt-Right
 
+See also: [Feminist History](https://github.com/doctorparadox/historical-texts/tree/master/feminist-history)  
+
 ## "The German Element in America" (1944)
 
 * [lundeen-germany-speech_sm.pdf](https://github.com/doctorparadox/historical-texts/blob/master/speeches/lundeen-germany-speech_sm.pdf)
