@@ -4,7 +4,7 @@
 
 Presidential inaugural addresses, in .txt format:
 
-* [George Washington inaugural, 1789](https://github.com/doctorparadox/historical-texts/blob/master/speeches/george_washington_inaugural.txt)
+* [George Washington inaugural, 1789](https://github.com/doctorparadox/historical-texts/blob/master/speeches/george_washington_inaugural.txt) | [word cloud](https://github.com/doctorparadox/historical-texts/blob/master/speeches/word-clouds/george_washington_inaugural_wordcloud.png)
 * [George Washington second inaugural, 1793](https://github.com/doctorparadox/historical-texts/blob/master/speeches/george_washington_2nd_inaugural.txt)
 * [John Adams inaugural, 1797](https://github.com/doctorparadox/historical-texts/blob/master/speeches/john_adams_inaugural.txt)
 * [Thomas Jefferson inaugural, 1801](https://github.com/doctorparadox/historical-texts/blob/master/speeches/thomas_jefferson_inaugural.txt)
