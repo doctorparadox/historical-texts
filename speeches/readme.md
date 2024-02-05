@@ -7,7 +7,7 @@ Presidential inaugural addresses, in .txt format:
 * [George Washington inaugural, 1789](https://github.com/doctorparadox/historical-texts/blob/master/speeches/george_washington_inaugural.txt) | [☁️ word cloud ☁️](https://github.com/doctorparadox/historical-texts/blob/master/speeches/word-clouds/george_washington_inaugural_wordcloud.png)
 * [George Washington second inaugural, 1793](https://github.com/doctorparadox/historical-texts/blob/master/speeches/george_washington_2nd_inaugural.txt)
 * [John Adams inaugural, 1797](https://github.com/doctorparadox/historical-texts/blob/master/speeches/john_adams_inaugural.txt) | [☁️ word cloud ☁️](https://github.com/doctorparadox/historical-texts/blob/master/speeches/word-clouds/john_adams_inaugural_word_cloud.png)
-* [Thomas Jefferson inaugural, 1801](https://github.com/doctorparadox/historical-texts/blob/master/speeches/thomas_jefferson_inaugural.txt)
+* [Thomas Jefferson inaugural, 1801](https://github.com/doctorparadox/historical-texts/blob/master/speeches/thomas_jefferson_inaugural.txt) | [☁️ word cloud ☁️](https://github.com/doctorparadox/historical-texts/blob/master/speeches/word-clouds/thomas_jefferson_inaugural_word_cloud.png)
 * [Thomas Jefferson second inaugural, 1805](https://github.com/doctorparadox/historical-texts/blob/master/speeches/thomas_jefferson_2nd_inaugural.txt)
 * [James Madison first inaugural, 1809](https://github.com/doctorparadox/historical-texts/blob/master/speeches/james_madison_1st_inaugural.txt)
 * [James Madison second inaugural, 1813](https://github.com/doctorparadox/historical-texts/blob/master/speeches/james_madison_2nd_inaugural.txt)
