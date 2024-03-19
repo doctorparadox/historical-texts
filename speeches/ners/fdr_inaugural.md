@@ -1,3 +1,4 @@
+```mermaid
     today((DATE)) --> today[[today]];
     the_arduous_days((DATE)) --> the_arduous_days[[the arduous days]];
     the_days((DATE)) --> the_days[[the days]];
@@ -18,3 +19,4 @@
     States((GPE)) --> States[[States]];
     the_United_States((GPE)) --> the_United_States[[the United States]];
     Constitution((LAW)) --> Constitution[[Constitution]];
+```
