@@ -44,7 +44,7 @@ Presidential inaugural addresses, in .txt format:
 * [FDR second inaugural, 1937](https://github.com/doctorparadox/historical-texts/blob/master/speeches/FDR_2nd_inaugural.txt)
 * [FDR third inaugural, 1941](https://github.com/doctorparadox/historical-texts/blob/master/speeches/FDR_3rd_inaugural.txt)
 * [FDR fourth inaugural, 1945](https://github.com/doctorparadox/historical-texts/blob/master/speeches/FDR_4th_inaugural.txt)
-* [Harry Truman inaugural, 1949](https://github.com/doctorparadox/historical-texts/blob/master/speeches/harry_truman_inaugural.txt)
+* [Harry Truman inaugural, 1949](https://github.com/doctorparadox/historical-texts/blob/master/speeches/harry_truman_inaugural.txt) | [☁️ word cloud ☁️](https://github.com/doctorparadox/historical-texts/blob/master/speeches/word-clouds/harry_truman_inaugural_word_cloud.png) | [📊 histogram 📊](https://github.com/doctorparadox/historical-texts/blob/master/speeches/histograms/harry_truman_inaugural_histogram.png)
 * [Dwight D. Eisenhower inaugural, 1953](https://github.com/doctorparadox/historical-texts/blob/master/speeches/eisenhower_inaugural.txt)
 * [Dwight D. Eisenhower second inaugural, 1957](https://github.com/doctorparadox/historical-texts/blob/master/speeches/eisenhower_2nd_inaugural.txt)
 * [John F. Kennedy inaugural, 1961](https://github.com/doctorparadox/historical-texts/blob/master/speeches/JFK_inaugural.txt)
