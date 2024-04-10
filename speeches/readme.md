@@ -60,7 +60,7 @@ Presidential inaugural addresses, in .txt format:
 * [Bill Clinton second inaugural, 1997](https://github.com/doctorparadox/historical-texts/blob/master/speeches/bill_clinton_2nd_inaugural.txt)
 * [George W. Bush inaugural, 2001](https://github.com/doctorparadox/historical-texts/blob/master/speeches/GWB_inaugural.txt) | [☁️ word cloud ☁️](https://github.com/doctorparadox/historical-texts/blob/master/speeches/word-clouds/george_w_bush_inaugural_address_word_cloud.png) | [📊 histogram 📊](https://github.com/doctorparadox/historical-texts/blob/master/speeches/histograms/george_w_bush_inaugural_histogram.png)
 * [GWB second inaugural, 2005](https://github.com/doctorparadox/historical-texts/blob/master/speeches/GWB_2nd_inaugural.txt)
-* [Barack Obama inaugural, 2009](https://github.com/doctorparadox/historical-texts/blob/master/speeches/Obama_inaugural.txt)
+* [Barack Obama inaugural, 2009](https://github.com/doctorparadox/historical-texts/blob/master/speeches/Obama_inaugural.txt) | [☁️ word cloud ☁️](https://github.com/doctorparadox/historical-texts/blob/master/speeches/word-clouds/barack_obama_inaugural_address_word_cloud.png) | [📊 histogram 📊](https://github.com/doctorparadox/historical-texts/blob/master/speeches/histograms/barack_obama_inaugural_address_histogram.png)
 * [Barack Obama second inaugural, 2013](https://github.com/doctorparadox/historical-texts/blob/master/speeches/obama_second_inaugural.txt)
 * [Donald Trump inaugural, 2017](https://github.com/doctorparadox/historical-texts/blob/master/speeches/Trump_inaugural.txt)
 * [Joseph Biden inaugural, 2021](https://github.com/doctorparadox/historical-texts/blob/master/speeches/Biden_inaugural.txt)
