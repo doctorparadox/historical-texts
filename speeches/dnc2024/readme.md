@@ -6,4 +6,5 @@ speeches on the second night of the convention).
 
 I'll aim to collect some of the many highlights here.
 
+* [Hillary Clinton](https://github.com/doctorparadox/historical-texts/blob/master/speeches/dnc2024/hillary-clinton-speech.txt)
 * [Michelle Obama](https://github.com/doctorparadox/historical-texts/blob/master/speeches/dnc2024/michelle-obama-speech.txt) (txt) | [full video](https://x.com/Acyn/status/1826107608006275145?t=lN1r_8vKRwJJE7cZNDdGgA&s=09)
