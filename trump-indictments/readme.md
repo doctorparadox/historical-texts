@@ -4,7 +4,7 @@ See also: files from the [January 6 Committee investigation](https://github.com/
 
 * [Special Counsel Jack Smith's case against Trump for seeking to overturn the 2020 election](https://github.com/doctorparadox/historical-texts/tree/master/trump-indictments/special-counsel) -- presiding US District Judge Tanya Chutkan
 * [Manhattan DA election interference case](https://github.com/doctorparadox/historical-texts/tree/master/trump-indictments/manhattan-stormy) involving hush money payments to Stormy Daniels -- presiding NY judge Juan Merchan
- * Result: [Trump found guilty on all 34 felony counts](https://www.nbcnewyork.com/news/local/trump-verdict-stormy-daniels-trial/5448835/) 
+  * Result: [Trump found guilty on all 34 felony counts](https://www.nbcnewyork.com/news/local/trump-verdict-stormy-daniels-trial/5448835/) 
 * [Fulton County, GA election interference](https://github.com/doctorparadox/historical-texts/tree/master/trump-indictments/GA-grand-jury) case by DA Fani Willis -- presiding judge Scott McAfee
 * [Special Counsel Jack Smith's case against Trump for theft of classified documents](https://github.com/doctorparadox/historical-texts/tree/master/trump-indictments/classified-documents) -- presiding US District judge Aileen Cannon
 * [New York AG Letitia James's civil fraud case against Trump and the Trump Organization](https://github.com/doctorparadox/historical-texts/tree/master/trump-indictments/trump-org) -- presiding judge Arthur F. Engoron
