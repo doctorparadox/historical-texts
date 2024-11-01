@@ -2,6 +2,7 @@ Documents relating to the theft of classified documents from the US government t
 
 * 5/26/22: [FBI interview with codefendant Walter Nauta](https://github.com/doctorparadox/historical-texts/blob/master/trump-indictments/classified-documents/doc-448-1-nauta-transcript.pdf)
 * 11/17/22: [DOJ response to Trump civil suit against gov for Mar-a-Lago search warrant](https://github.com/doctorparadox/historical-texts/blob/master/trump-indictments/classified-documents/221117-doj-reply-brief.pdf)
+* 12/1/22: [11th Circuit denies Trump's appeal](https://github.com/doctorparadox/historical-texts/blob/master/trump-indictments/classified-documents/22-13005-2022-12-01.pdf)
 * 6/8/23: [Original Trump indictment](https://github.com/doctorparadox/historical-texts/blob/master/trump-indictments/classified-documents/US-v-Trump-Nauta.pdf)
 * 6/13/23: [Arraignment proceedings transcript](https://github.com/doctorparadox/historical-texts/blob/master/trump-indictments/classified-documents/usa-v-trump-and-nauta-transcript.pdf)
 * 6/16/23: [DOJ's motion for protective order limiting disclosure of discovery info](https://github.com/doctorparadox/historical-texts/blob/master/trump-indictments/classified-documents/protective-order.pdf)
