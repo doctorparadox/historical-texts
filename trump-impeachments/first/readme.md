@@ -1,0 +1,1 @@
+Documents relating to the first of 2 (so far) impeachments of Donald Trump, initiated in December 2019 in response to a whistleblower revealing that the then-President attempted to extort the nation of Ukraine out of approved aid money unless its President Volodomyr Zelensky created a false impression of investigating Trump's then rival for the 2020 election, Joe Biden.
