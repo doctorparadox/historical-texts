@@ -3,6 +3,7 @@ This folder will collect documents relating to Trump criminal indictments, legal
 See also: files from the [January 6 Committee investigation](https://github.com/doctorparadox/historical-texts/tree/master/january-6)
 
 # Summary Documents
+* [Special Counsel Jack Smith final report, Vol 1](https://www.justice.gov/storage/Report-of-Special-Counsel-Smith-Volume-1-January-2025.pdf)
 * [Special Counsel Jack Smith Congressional testimony, 12/17/25](https://github.com/doctorparadox/historical-texts/blob/master/trump-indictments/Smith-Depo-Transcript_Redacted-w-Errata.pdf)
 
 # Case Files
