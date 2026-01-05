@@ -2,6 +2,11 @@ This folder will collect documents relating to Trump criminal indictments, legal
 
 See also: files from the [January 6 Committee investigation](https://github.com/doctorparadox/historical-texts/tree/master/january-6)
 
+# Summary Documents
+* [Special Counsel Jack Smith Congressional testimony, 12/17/25](https://github.com/doctorparadox/historical-texts/blob/master/trump-indictments/Smith-Depo-Transcript_Redacted-w-Errata.pdf)
+
+# Case Files
+
 * [Special Counsel Jack Smith's case against Trump for seeking to overturn the 2020 election](https://github.com/doctorparadox/historical-texts/tree/master/trump-indictments/special-counsel) -- presiding US District Judge Tanya Chutkan
 * [Manhattan DA election interference case](https://github.com/doctorparadox/historical-texts/tree/master/trump-indictments/manhattan-stormy) involving hush money payments to Stormy Daniels -- presiding NY judge Juan Merchan
   * Result: [Trump found guilty on all 34 felony counts](https://www.nbcnewyork.com/news/local/trump-verdict-stormy-daniels-trial/5448835/) 
